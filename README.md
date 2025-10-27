@@ -1,4 +1,4 @@
-# checKRA-supaApp-release --forlinux users
+# checKRA-supaApp-release --forlinux users and android users
 an application to ease your tax duties from verification to filling built with flutter!
 
 # KRA PIN Checker
