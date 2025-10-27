@@ -15,7 +15,7 @@ KRA PIN Checker is a lightweight desktop application for verifying Kenyan taxpay
 wget https://your-github.com/kra-project/prem-pin-checker/releases/download/v1.0.0/kra-pin-checker_1.0.0_amd64.deb
 ```
 
-*(Replace the link above with your actual GitHub release URL.)*
+
 
 ### 2. Install the package
 
