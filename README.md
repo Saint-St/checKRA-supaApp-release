@@ -1,3 +1,8 @@
+<img width="1920" height="1047" alt="Screenshot from 2025-10-28 09-20-08" src="https://github.com/user-attachments/assets/beb0f500-3799-4903-a103-fd08e2f555fc" />
+<img width="1920" height="1047" alt="Screenshot from 2025-10-28 09-20-41" src="https://github.com/user-attachments/assets/cf849dca-8477-42d8-9c18-c3315f8a38b4" />
+<img width="1920" height="1047" alt="Screenshot from 2025-10-28 09-21-03" src="https://github.com/user-attachments/assets/3d19d228-f0d4-4176-8d1c-0f59fcf62bb8" />
+<img width="1920" height="1047" alt="Screenshot from 2025-10-28 09-21-13" src="https://github.com/user-attachments/assets/119231f9-93a0-4482-834b-a61307a4be3d" />
+<img width="1920" height="1047" alt="Screenshot from 2025-10-28 09-21-22" src="https://github.com/user-attachments/assets/03046b9b-bed7-498b-b9e6-f770f64f5a88" />
 # checKRA-supaApp-release --forlinux users and android users
 
 an application to ease your tax duties from verification to filling built with flutter!
