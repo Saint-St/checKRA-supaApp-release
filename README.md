@@ -21,7 +21,7 @@ KRA PIN Checker verifies Kenyan taxpayer PINs instantly using the official KRA A
 
 * **Effortless Verification:** Select taxpayer type (Kenyan Resident, Non-Resident, or Company) and enter ID or PIN to get real-time results.
 * **Token-Based Access:** All verifications require tokens (no free tier). Buy tokens via M-Pesa as needed.
-* **Token Management:** View balance in-app. Each check consumes one token. Tokens are deleted once used up.
+* **Token Management:**  Each check consumes one token. Tokens are deleted once used up.
 * **Simple UI:** Clean Kenyan-themed interface with animations and clear error alerts. Online-only to guarantee up-to-date data.
 
 ---
