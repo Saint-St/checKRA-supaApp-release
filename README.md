@@ -74,6 +74,7 @@ Tokens are required for each verification. Simple, secure, and fast:
 
 * **Android APK:** [Download Here](https://github.com/Saint-St/checKRA-supaApp-release/releases/download/checKRA-supaApp/app-release.apk)
 * **Linux DEB:** [Download Here](https://github.com/Saint-St/checKRA-supaApp-release/releases/download/checKRA-supaApp/kra-pin-checker_1.0.0_amd64.deb)
+* **WindowsZip:**[Download Here](https://github.com/Saint-St/checKRA-supaApp-release/releases/download/checKRA-supaApp/kra_pin_checker-v1.0.0-win64.zip)
 
 **Verify taxpayers securely with checKRA. 🇰🇪**
 
