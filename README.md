@@ -1,3 +1,4 @@
+[kra_pin_checker-v1.0.0-win64.zip](https://github.com/user-attachments/files/23357709/kra_pin_checker-v1.0.0-win64.zip)
 <img width="1920" height="1047" alt="Screenshot from 2025-10-28 09-20-08" src="https://github.com/user-attachments/assets/beb0f500-3799-4903-a103-fd08e2f555fc" />
 <img width="1920" height="1047" alt="Screenshot from 2025-10-28 09-20-41" src="https://github.com/user-attachments/assets/cf849dca-8477-42d8-9c18-c3315f8a38b4" />
 <img width="1920" height="1047" alt="Screenshot from 2025-10-28 09-21-03" src="https://github.com/user-attachments/assets/3d19d228-f0d4-4176-8d1c-0f59fcf62bb8" />
