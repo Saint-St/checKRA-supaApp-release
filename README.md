@@ -75,11 +75,12 @@ Tokens are required for each verification. Simple, secure, and fast:
 
 **Downloads:**
 
-* **Android APK:** [Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/checKRA-supaApp/PinSight.apk)
-* **Linux DEB:** [Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/checKRA-supaApp/kra-pin-checker_1.0.0_amd64.deb)
-* **WindowsZip:**[Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/checKRA-supaApp/kra_pin_checker-v1.0.0-win64.zip)
+* **Android APK:** [Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/PinSight-SuppaApp/PinSight.apk)
+* **AppImage(LINUX DISTROS)** [Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/PinSight-SuppaApp/PinSight-1.0.0-x86_64.AppImage)
+* **Linux DEB:** [Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/PinSight-SuppaApp/pinsight_1.0.0_amd64.deb)
+* **WindowsZip:**[Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/PinSight-SuppaApp/kra_pin_checker-v1.0.0-win64.zip)
 
-**Verify taxpayers securely with checKRA. 🇰🇪**
+**Verify taxpayers securely with PinSight. 🇰🇪**
 
 ---
 
