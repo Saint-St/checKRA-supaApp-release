@@ -71,13 +71,13 @@ Tokens are required for each verification. Simple, secure, and fast:
 
 **Note:** Not affiliated with KRA. This is an independent verification tool.
 
-**Support:** [codecookes@gmail.com](mailto:codecookes@gmail.com)
+**Support:** [codecookes@gmail.com](mailto:hovsaintbrandon@gmail.com)
 
 **Downloads:**
 
-* **Android APK:** [Download Here](https://github.com/Saint-St/checKRA-supaApp-release/releases/download/checKRA-supaApp/PinSight.apk)
-* **Linux DEB:** [Download Here](https://github.com/Saint-St/checKRA-supaApp-release/releases/download/checKRA-supaApp/kra-pin-checker_1.0.0_amd64.deb)
-* **WindowsZip:**[Download Here](https://github.com/Saint-St/checKRA-supaApp-release/releases/download/checKRA-supaApp/kra_pin_checker-v1.0.0-win64.zip)
+* **Android APK:** [Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/checKRA-supaApp/PinSight.apk)
+* **Linux DEB:** [Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/checKRA-supaApp/kra-pin-checker_1.0.0_amd64.deb)
+* **WindowsZip:**[Download Here](https://github.com/HovSaintBrandon/checKRA-supaApp-release/releases/download/checKRA-supaApp/kra_pin_checker-v1.0.0-win64.zip)
 
 **Verify taxpayers securely with checKRA. 🇰🇪**
 
@@ -87,4 +87,4 @@ Tokens are required for each verification. Simple, secure, and fast:
 ## Author
 
 Developed by **Saint-St**
-GitHub: [https://github.com/Saint-St](https://github.com/Saint-St)
+GitHub: [https://github.com/Saint-St](https://github.com/HovSaintBrandon)
